@@ -1,1 +1,4 @@
-# legendary-pancake-advent-of-code-2025
+# Advent of Code 2025
+
+Repository of my solutions for Advent of Code 2025.
+
